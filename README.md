@@ -1,2 +1,2 @@
-# C-digo-Biblioteca---JAVA
+# Codigo-Biblioteca---JAVA
 Código Biblioteca feito em Java - Utilizando Prototype 
